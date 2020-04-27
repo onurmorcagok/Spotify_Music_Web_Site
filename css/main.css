@@ -1,0 +1,14 @@
+.container{margin-top:10px;overflow:hidden}
+	.container div {float:left}
+.header div{float:left;}
+	.header div img{width:100%}
+.menubar{background:#f0f0f0;padding-top:15px}
+	.menubar ul li{display:inline;
+				   padding:0px 20px 0px 20px;
+				text-align:center;}
+		.menubar ul li a{color:black}
+	.menubar ul li:hover{background:#e0e0e0}	
+.slider{padding:0px;}
+.content{margin-top:10px;padding:0}
+	.haberler{padding:0}
+	.haberler img{width:100%;}
